@@ -6,7 +6,7 @@ This script has been developed for Ghost 4.41.3 and might get outdated in the fu
 
 ## I don't care about the script, I am just here because I need sample posts for my Ghost blog
 
-No worries - that is literally why I created this script: out of frustration that there were no publically available sample JSONs that fit the current version of Ghost (4.41.3, as of March 2022). This repo includes a sample JSON ready to be uploaded: `/sample/sample.json`. Download this file to your computer and follow the instructions on how to [Upload the JSON to Ghost](#upload-the-json-to-ghost)
+No worries - that is literally why I created this script: out of frustration that there were no publically available sample JSONs that fit the current version of Ghost (4.41.3, as of March 2022). This repo includes a sample JSON ready to be uploaded: `/exports/sample.json`. Download this file to your computer and follow the instructions on how to [Upload the JSON to Ghost](#upload-the-json-to-ghost)
 
 ## Setup
 
